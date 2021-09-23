@@ -1,3 +1,4 @@
 # AdopteUnNathan-CF
 Site fun (adopteunnathan.cf)
-Use HTML & CSS
+
+This website use CSS and HTML.
