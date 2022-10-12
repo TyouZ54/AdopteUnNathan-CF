@@ -1,4 +1,5 @@
 # AdopteUnNathan.CF
-Site fun (adopteunnathan.cf)
+Site fun (https://adoptezunnathan.cf/)
 
-This website use CSS and HTML.
+Ce site internet utilise HTML et CSS.
+Il se base sur un template de page d'erreur 404 :)
